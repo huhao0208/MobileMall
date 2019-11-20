@@ -1,0 +1,25 @@
+/* .van-loading {
+  position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  } */
+  #app {
+    text-align: left;
+  }
+  main {
+    padding: 46px 0 50px;
+    height: 100%;
+    /* min-height: 500px; */
+  }
+  .van-nav-bar{
+    position: fixed;
+    width: 100%;
+    top:0
+  }
+  *{
+    box-sizing: border-box;
+  }
+  html,body,#app{
+    height:100%;
+}
